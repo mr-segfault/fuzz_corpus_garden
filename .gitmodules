@@ -1,0 +1,21 @@
+[submodule "SecLists"]
+	path = SecLists
+	url = https://github.com/danielmiessler/SecLists
+[submodule "fuzzing-corpus"]
+	path = fuzzing-corpus
+	url = https://github.com/strongcourage/fuzzing-corpus
+[submodule "format-corpus"]
+	path = format-corpus
+	url = https://github.com/openpreserve/format-corpus
+[submodule "fuzzdb"]
+	path = fuzzdb
+	url = https://github.com/fuzzdb-project/fuzzdb/
+[submodule "clamav-fuzz-corpus"]
+	path = clamav-fuzz-corpus
+	url = https://github.com/Cisco-Talos/clamav-fuzz-corpus/
+[submodule "big-list-of-naughty-strings"]
+	path = big-list-of-naughty-strings
+	url = https://github.com/minimaxir/big-list-of-naughty-strings
+[submodule "pdf.js"]
+	path = pdf.js
+	url = https://github.com/mozilla/pdf.js/

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+"http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de">
+	<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<title>Index of /audio/?C=N;O=A</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<link type="text/css" rel="stylesheet" media="all" href="/server-templates/css/schokokeks.css" />
+	</head>
+	<body>
+
+<div id="main">
+<form action="" method="get" style="float: right;">
+	<p>
+	<input type="text" name="P" value="*" />
+	<input type="submit" name="X" value="Filter!" />
+	</p>
+</form>
+<div id="content"> 
+<div class="node">
+<div class="content">
+<h3 style="margin-right: 200px;">Index of /audio/?C=N;O=A</h3>
+  <table>
+   <tr><th valign="top"><img src="/server-templates/listing/icons/blank.png" alt="[ICO]" width="24" height="24" /></th><th><a href="?C=N;O=D">Name</a></th><th><a href="?C=S;O=A">Size</a></th></tr>
+<tr><td valign="top"><a href="/"><img src="/server-templates/listing/icons/folder.png" alt="[PARENTDIR]" width="24" height="24" /></a></td><td><a href="/">Parent Directory</a></td><td align="right">  - </td></tr>
+<tr><td valign="top"><a href="tracker/"><img src="/server-templates/listing/icons/folder.png" alt="[DIR]" width="24" height="24" /></a></td><td><a href="tracker/">tracker/</a></td><td align="right">  - </td></tr>
+<tr><td valign="top"><a href="amrnb.amr"><img src="/icons/sound2.gif" alt="[SND]" width="24" height="24" /></a></td><td><a href="amrnb.amr">amrnb.amr</a></td><td align="right">1.6K</td></tr>
+<tr><td valign="top"><a href="mp3.mp3"><img src="/server-templates/listing/icons/audio.png" alt="[SND]" width="24" height="24" /></a></td><td><a href="mp3.mp3">mp3.mp3</a></td><td align="right">484 </td></tr>
+<tr><td valign="top"><a href="musepack.mpc"><img src="/server-templates/listing/icons/unknown.png" alt="[   ]" width="24" height="24" /></a></td><td><a href="musepack.mpc">musepack.mpc</a></td><td align="right"> 15K</td></tr>
+<tr><td valign="top"><a href="vorbis.ogg"><img src="/server-templates/listing/icons/application-ogg.png" alt="[SND]" width="24" height="24" /></a></td><td><a href="vorbis.ogg">vorbis.ogg</a></td><td align="right">2.7K</td></tr>
+<tr><td valign="top"><a href="wav.wav"><img src="/server-templates/listing/icons/audio.png" alt="[SND]" width="24" height="24" /></a></td><td><a href="wav.wav">wav.wav</a></td><td align="right"> 45 </td></tr>
+</table>
+</div>
+</div>
+</div>
+<div class="clear-fix" style="clear: both; height: 1em;"></div>
+<div id="footer" style="clear: both;">
+    <div class="region region-footer">
+	 <ul class="menu"><li class="first last leaf"><a href="https://www.schokokeks.org/" title="">schokokeks.org Hosting</a></li>
+</ul>  </div>
+</div>
+</div>
+</body>
+</html>

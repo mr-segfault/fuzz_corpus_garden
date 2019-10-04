@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+"http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de">
+	<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<title>Index of /executables/?C=N;O=D</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<link type="text/css" rel="stylesheet" media="all" href="/server-templates/css/schokokeks.css" />
+	</head>
+	<body>
+
+<div id="main">
+<form action="" method="get" style="float: right;">
+	<p>
+	<input type="text" name="P" value="*" />
+	<input type="submit" name="X" value="Filter!" />
+	</p>
+</form>
+<div id="content"> 
+<div class="node">
+<div class="content">
+<h3 style="margin-right: 200px;">Index of /executables/?C=N;O=D</h3>
+  <table>
+   <tr><th valign="top"><img src="/server-templates/listing/icons/blank.png" alt="[ICO]" width="24" height="24" /></th><th><a href="?C=N;O=A">Name</a></th><th><a href="?C=S;O=A">Size</a></th></tr>
+<tr><td valign="top"><a href="/"><img src="/server-templates/listing/icons/folder.png" alt="[PARENTDIR]" width="24" height="24" /></a></td><td><a href="/">Parent Directory</a></td><td align="right">  - </td></tr>
+<tr><td valign="top"><a href="win31.exe"><img src="/server-templates/listing/icons/application-x-executable.png" alt="[   ]" width="24" height="24" /></a></td><td><a href="win31.exe">win31.exe</a></td><td align="right"> 31K</td></tr>
+<tr><td valign="top"><a href="win9x.exe"><img src="/server-templates/listing/icons/application-x-executable.png" alt="[   ]" width="24" height="24" /></a></td><td><a href="win9x.exe">win9x.exe</a></td><td align="right"> 21K</td></tr>
+<tr><td valign="top"><a href="os2.exe"><img src="/server-templates/listing/icons/application-x-executable.png" alt="[   ]" width="24" height="24" /></a></td><td><a href="os2.exe">os2.exe</a></td><td align="right">1.3K</td></tr>
+<tr><td valign="top"><a href="msdos.exe"><img src="/server-templates/listing/icons/application-x-executable.png" alt="[   ]" width="24" height="24" /></a></td><td><a href="msdos.exe">msdos.exe</a></td><td align="right">1.2K</td></tr>
+<tr><td valign="top"><a href="msdos.com"><img src="/server-templates/listing/icons/unknown.png" alt="[   ]" width="24" height="24" /></a></td><td><a href="msdos.com">msdos.com</a></td><td align="right">  4 </td></tr>
+<tr><td valign="top"><a href="mach-o"><img src="/server-templates/listing/icons/unknown.png" alt="[   ]" width="24" height="24" /></a></td><td><a href="mach-o">mach-o</a></td><td align="right">8.2K</td></tr>
+<tr><td valign="top"><a href="elf-64bit"><img src="/server-templates/listing/icons/unknown.png" alt="[   ]" width="24" height="24" /></a></td><td><a href="elf-64bit">elf-64bit</a></td><td align="right">4.2K</td></tr>
+<tr><td valign="top"><a href="elf-32bit"><img src="/server-templates/listing/icons/unknown.png" alt="[   ]" width="24" height="24" /></a></td><td><a href="elf-32bit">elf-32bit</a></td><td align="right">3.0K</td></tr>
+</table>
+</div>
+</div>
+</div>
+<div class="clear-fix" style="clear: both; height: 1em;"></div>
+<div id="footer" style="clear: both;">
+    <div class="region region-footer">
+	 <ul class="menu"><li class="first last leaf"><a href="https://www.schokokeks.org/" title="">schokokeks.org Hosting</a></li>
+</ul>  </div>
+</div>
+</div>
+</body>
+</html>

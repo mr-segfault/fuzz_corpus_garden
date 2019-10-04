@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+"http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de">
+	<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<title>Index of /graphics/bitmap/?C=N;O=A</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<link type="text/css" rel="stylesheet" media="all" href="/server-templates/css/schokokeks.css" />
+	</head>
+	<body>
+
+<div id="main">
+<form action="" method="get" style="float: right;">
+	<p>
+	<input type="text" name="P" value="*" />
+	<input type="submit" name="X" value="Filter!" />
+	</p>
+</form>
+<div id="content"> 
+<div class="node">
+<div class="content">
+<h3 style="margin-right: 200px;">Index of /graphics/bitmap/?C=N;O=A</h3>
+  <table>
+   <tr><th valign="top"><img src="/server-templates/listing/icons/blank.png" alt="[ICO]" width="24" height="24" /></th><th><a href="?C=N;O=D">Name</a></th><th><a href="?C=S;O=A">Size</a></th></tr>
+<tr><td valign="top"><a href="/graphics/"><img src="/server-templates/listing/icons/folder.png" alt="[PARENTDIR]" width="24" height="24" /></a></td><td><a href="/graphics/">Parent Directory</a></td><td align="right">  - </td></tr>
+<tr><td valign="top"><a href="dicom.dcm"><img src="/server-templates/listing/icons/unknown.png" alt="[   ]" width="24" height="24" /></a></td><td><a href="dicom.dcm">dicom.dcm</a></td><td align="right">738 </td></tr>
+<tr><td valign="top"><a href="drhalo.cut"><img src="/server-templates/listing/icons/unknown.png" alt="[   ]" width="24" height="24" /></a></td><td><a href="drhalo.cut">drhalo.cut</a></td><td align="right"> 51 </td></tr>
+<tr><td valign="top"><a href="flif.flif"><img src="/server-templates/listing/icons/unknown.png" alt="[   ]" width="24" height="24" /></a></td><td><a href="flif.flif">flif.flif</a></td><td align="right"> 41 </td></tr>
+<tr><td valign="top"><a href="gif.gif"><img src="/server-templates/listing/icons/image.png" alt="[IMG]" width="24" height="24" /></a></td><td><a href="gif.gif">gif.gif</a></td><td align="right"> 42 </td></tr>
+<tr><td valign="top"><a href="gimp.xcf"><img src="/server-templates/listing/icons/image.png" alt="[   ]" width="24" height="24" /></a></td><td><a href="gimp.xcf">gimp.xcf</a></td><td align="right">1.6K</td></tr>
+<tr><td valign="top"><a href="gimpbrush.gbr"><img src="/server-templates/listing/icons/unknown.png" alt="[   ]" width="24" height="24" /></a></td><td><a href="gimpbrush.gbr">gimpbrush.gbr</a></td><td align="right">112 </td></tr>
+<tr><td valign="top"><a href="icon.ico"><img src="/server-templates/listing/icons/image.png" alt="[IMG]" width="24" height="24" /></a></td><td><a href="icon.ico">icon.ico</a></td><td align="right">1.5K</td></tr>
+<tr><td valign="top"><a href="jbig2.jb2"><img src="/server-templates/listing/icons/unknown.png" alt="[   ]" width="24" height="24" /></a></td><td><a href="jbig2.jb2">jbig2.jb2</a></td><td align="right">105 </td></tr>
+<tr><td valign="top"><a href="jpeg.jpg"><img src="/server-templates/listing/icons/image.png" alt="[IMG]" width="24" height="24" /></a></td><td><a href="jpeg.jpg">jpeg.jpg</a></td><td align="right">345 </td></tr>
+<tr><td valign="top"><a href="jpeg2000.j2k"><img src="/server-templates/listing/icons/unknown.png" alt="[   ]" width="24" height="24" /></a></td><td><a href="jpeg2000.j2k">jpeg2000.j2k</a></td><td align="right">277 </td></tr>
+<tr><td valign="top"><a href="openraster.ora"><img src="/server-templates/listing/icons/unknown.png" alt="[   ]" width="24" height="24" /></a></td><td><a href="openraster.ora">openraster.ora</a></td><td align="right">2.2K</td></tr>
+<tr><td valign="top"><a href="paintshoppro5.psp"><img src="/icons/text.gif" alt="[TXT]" width="24" height="24" /></a></td><td><a href="paintshoppro5.psp">paintshoppro5.psp</a></td><td align="right">863 </td></tr>
+<tr><td valign="top"><a href="paintshoppro7.psp"><img src="/icons/text.gif" alt="[TXT]" width="24" height="24" /></a></td><td><a href="paintshoppro7.psp">paintshoppro7.psp</a></td><td align="right">1.3K</td></tr>
+<tr><td valign="top"><a href="paintshoppro13.pspimage"><img src="/server-templates/listing/icons/unknown.png" alt="[   ]" width="24" height="24" /></a></td><td><a href="paintshoppro13.pspimage">paintshoppro13.pspimage</a></td><td align="right"> 34K</td></tr>
+<tr><td valign="top"><a href="pcx.pcx"><img src="/server-templates/listing/icons/image.png" alt="[IMG]" width="24" height="24" /></a></td><td><a href="pcx.pcx">pcx.pcx</a></td><td align="right">257 </td></tr>
+<tr><td valign="top"><a href="pix.pix"><img src="/server-templates/listing/icons/unknown.png" alt="[   ]" width="24" height="24" /></a></td><td><a href="pix.pix">pix.pix</a></td><td align="right"> 26 </td></tr>
+<tr><td valign="top"><a href="png.png"><img src="/server-templates/listing/icons/image.png" alt="[IMG]" width="24" height="24" /></a></td><td><a href="png.png">png.png</a></td><td align="right"> 79 </td></tr>
+<tr><td valign="top"><a href="tga-rle.tga"><img src="/server-templates/listing/icons/image.png" alt="[IMG]" width="24" height="24" /></a></td><td><a href="tga-rle.tga">tga-rle.tga</a></td><td align="right"> 72 </td></tr>
+<tr><td valign="top"><a href="tga.tga"><img src="/server-templates/listing/icons/image.png" alt="[IMG]" width="24" height="24" /></a></td><td><a href="tga.tga">tga.tga</a></td><td align="right">118 </td></tr>
+<tr><td valign="top"><a href="wbmp.wbmp"><img src="/server-templates/listing/icons/image.png" alt="[IMG]" width="24" height="24" /></a></td><td><a href="wbmp.wbmp">wbmp.wbmp</a></td><td align="right"> 20 </td></tr>
+<tr><td valign="top"><a href="x11mousecursor.xmc"><img src="/server-templates/listing/icons/unknown.png" alt="[   ]" width="24" height="24" /></a></td><td><a href="x11mousecursor.xmc">x11mousecursor.xmc</a></td><td align="right"> 80 </td></tr>
+<tr><td valign="top"><a href="xwd.xwd"><img src="/server-templates/listing/icons/image.png" alt="[IMG]" width="24" height="24" /></a></td><td><a href="xwd.xwd">xwd.xwd</a></td><td align="right">3.5K</td></tr>
+</table>
+</div>
+</div>
+</div>
+<div class="clear-fix" style="clear: both; height: 1em;"></div>
+<div id="footer" style="clear: both;">
+    <div class="region region-footer">
+	 <ul class="menu"><li class="first last leaf"><a href="https://www.schokokeks.org/" title="">schokokeks.org Hosting</a></li>
+</ul>  </div>
+</div>
+</div>
+</body>
+</html>

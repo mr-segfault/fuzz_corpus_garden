@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+"http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de">
+	<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<title>Index of /archives/?C=N;O=D</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<link type="text/css" rel="stylesheet" media="all" href="/server-templates/css/schokokeks.css" />
+	</head>
+	<body>
+
+<div id="main">
+<form action="" method="get" style="float: right;">
+	<p>
+	<input type="text" name="P" value="*" />
+	<input type="submit" name="X" value="Filter!" />
+	</p>
+</form>
+<div id="content"> 
+<div class="node">
+<div class="content">
+<h3 style="margin-right: 200px;">Index of /archives/?C=N;O=D</h3>
+  <table>
+   <tr><th valign="top"><img src="/server-templates/listing/icons/blank.png" alt="[ICO]" width="24" height="24" /></th><th><a href="?C=N;O=A">Name</a></th><th><a href="?C=S;O=A">Size</a></th></tr>
+<tr><td valign="top"><a href="/"><img src="/server-templates/listing/icons/folder.png" alt="[PARENTDIR]" width="24" height="24" /></a></td><td><a href="/">Parent Directory</a></td><td align="right">  - </td></tr>
+<tr><td valign="top"><a href="zip.zip"><img src="/server-templates/listing/icons/application-zip.png" alt="[   ]" width="24" height="24" /></a></td><td><a href="zip.zip">zip.zip</a></td><td align="right">161 </td></tr>
+<tr><td valign="top"><a href="xz.xz"><img src="/server-templates/listing/icons/application-x-gzip.png" alt="[   ]" width="24" height="24" /></a></td><td><a href="xz.xz">xz.xz</a></td><td align="right"> 60 </td></tr>
+<tr><td valign="top"><a href="xar.xar"><img src="/server-templates/listing/icons/unknown.png" alt="[   ]" width="24" height="24" /></a></td><td><a href="xar.xar">xar.xar</a></td><td align="right">519 </td></tr>
+<tr><td valign="top"><a href="tar-xz.tar.xz"><img src="/server-templates/listing/icons/application-x-gzip.png" alt="[   ]" width="24" height="24" /></a></td><td><a href="tar-xz.tar.xz">tar-xz.tar.xz</a></td><td align="right">172 </td></tr>
+<tr><td valign="top"><a href="tar-posix.tar"><img src="/server-templates/listing/icons/application-x-tar.png" alt="[   ]" width="24" height="24" /></a></td><td><a href="tar-posix.tar">tar-posix.tar</a></td><td align="right">2.0K</td></tr>
+<tr><td valign="top"><a href="tar-lzop.tar.lzo"><img src="/server-templates/listing/icons/unknown.png" alt="[   ]" width="24" height="24" /></a></td><td><a href="tar-lzop.tar.lzo">tar-lzop.tar.lzo</a></td><td align="right">216 </td></tr>
+<tr><td valign="top"><a href="tar-lzma.tar.lzma"><img src="/server-templates/listing/icons/unknown.png" alt="[   ]" width="24" height="24" /></a></td><td><a href="tar-lzma.tar.lzma">tar-lzma.tar.lzma</a></td><td align="right">126 </td></tr>
+<tr><td valign="top"><a href="tar-lzip.tar.lzip"><img src="/server-templates/listing/icons/unknown.png" alt="[   ]" width="24" height="24" /></a></td><td><a href="tar-lzip.tar.lzip">tar-lzip.tar.lzip</a></td><td align="right">143 </td></tr>
+<tr><td valign="top"><a href="tar-gzip.tar.gz"><img src="/server-templates/listing/icons/application-x-gzip.png" alt="[   ]" width="24" height="24" /></a></td><td><a href="tar-gzip.tar.gz">tar-gzip.tar.gz</a></td><td align="right">119 </td></tr>
+<tr><td valign="top"><a href="tar-compress.tar.Z"><img src="/icons/compressed.gif" alt="[   ]" width="24" height="24" /></a></td><td><a href="tar-compress.tar.Z">tar-compress.tar.Z</a></td><td align="right">236 </td></tr>
+<tr><td valign="top"><a href="tar-classic.tar"><img src="/server-templates/listing/icons/application-x-tar.png" alt="[   ]" width="24" height="24" /></a></td><td><a href="tar-classic.tar">tar-classic.tar</a></td><td align="right">2.0K</td></tr>
+<tr><td valign="top"><a href="tar-bzip2.tar.bz2"><img src="/server-templates/listing/icons/application-x-bzip.png" alt="[   ]" width="24" height="24" /></a></td><td><a href="tar-bzip2.tar.bz2">tar-bzip2.tar.bz2</a></td><td align="right">122 </td></tr>
+<tr><td valign="top"><a href="shellarchive.shar"><img src="/icons/script.gif" alt="[   ]" width="24" height="24" /></a></td><td><a href="shellarchive.shar">shellarchive.shar</a></td><td align="right">4.3K</td></tr>
+<tr><td valign="top"><a href="rar30.rar"><img src="/server-templates/listing/icons/application-x-rar.png" alt="[   ]" width="24" height="24" /></a></td><td><a href="rar30.rar">rar30.rar</a></td><td align="right"> 77 </td></tr>
+<tr><td valign="top"><a href="rar5.rar"><img src="/server-templates/listing/icons/application-x-rar.png" alt="[   ]" width="24" height="24" /></a></td><td><a href="rar5.rar">rar5.rar</a></td><td align="right"> 77 </td></tr>
+<tr><td valign="top"><a href="rar2.rar"><img src="/server-templates/listing/icons/application-x-rar.png" alt="[   ]" width="24" height="24" /></a></td><td><a href="rar2.rar">rar2.rar</a></td><td align="right"> 62 </td></tr>
+<tr><td valign="top"><a href="mscompress.txt_"><img src="/server-templates/listing/icons/unknown.png" alt="[   ]" width="24" height="24" /></a></td><td><a href="mscompress.txt_">mscompress.txt_</a></td><td align="right"> 82 </td></tr>
+<tr><td valign="top"><a href="mscab.cab"><img src="/server-templates/listing/icons/unknown.png" alt="[   ]" width="24" height="24" /></a></td><td><a href="mscab.cab">mscab.cab</a></td><td align="right"> 78 </td></tr>
+<tr><td valign="top"><a href="mar.mar"><img src="/server-templates/listing/icons/unknown.png" alt="[   ]" width="24" height="24" /></a></td><td><a href="mar.mar">mar.mar</a></td><td align="right">173 </td></tr>
+<tr><td valign="top"><a href="lzop.lzo"><img src="/server-templates/listing/icons/unknown.png" alt="[   ]" width="24" height="24" /></a></td><td><a href="lzop.lzo">lzop.lzo</a></td><td align="right"> 61 </td></tr>
+<tr><td valign="top"><a href="lzip.lz"><img src="/server-templates/listing/icons/unknown.png" alt="[   ]" width="24" height="24" /></a></td><td><a href="lzip.lz">lzip.lz</a></td><td align="right"> 38 </td></tr>
+<tr><td valign="top"><a href="lha.lzh"><img src="/server-templates/listing/icons/unknown.png" alt="[   ]" width="24" height="24" /></a></td><td><a href="lha.lzh">lha.lzh</a></td><td align="right"> 54 </td></tr>
+<tr><td valign="top"><a href="gzip.gz"><img src="/server-templates/listing/icons/application-x-gzip.png" alt="[   ]" width="24" height="24" /></a></td><td><a href="gzip.gz">gzip.gz</a></td><td align="right"> 28 </td></tr>
+<tr><td valign="top"><a href="cpio.cpio"><img src="/server-templates/listing/icons/unknown.png" alt="[   ]" width="24" height="24" /></a></td><td><a href="cpio.cpio">cpio.cpio</a></td><td align="right">512 </td></tr>
+<tr><td valign="top"><a href="compress.Z"><img src="/icons/compressed.gif" alt="[   ]" width="24" height="24" /></a></td><td><a href="compress.Z">compress.Z</a></td><td align="right">  6 </td></tr>
+<tr><td valign="top"><a href="bzip2.bz2"><img src="/server-templates/listing/icons/application-x-bzip.png" alt="[   ]" width="24" height="24" /></a></td><td><a href="bzip2.bz2">bzip2.bz2</a></td><td align="right"> 37 </td></tr>
+<tr><td valign="top"><a href="arj.arj"><img src="/server-templates/listing/icons/unknown.png" alt="[   ]" width="24" height="24" /></a></td><td><a href="arj.arj">arj.arj</a></td><td align="right">122 </td></tr>
+<tr><td valign="top"><a href="arc.arc"><img src="/server-templates/listing/icons/unknown.png" alt="[   ]" width="24" height="24" /></a></td><td><a href="arc.arc">arc.arc</a></td><td align="right"> 70 </td></tr>
+<tr><td valign="top"><a href="ar.a"><img src="/server-templates/listing/icons/unknown.png" alt="[   ]" width="24" height="24" /></a></td><td><a href="ar.a">ar.a</a></td><td align="right"> 72 </td></tr>
+<tr><td valign="top"><a href="ace.ace"><img src="/server-templates/listing/icons/unknown.png" alt="[   ]" width="24" height="24" /></a></td><td><a href="ace.ace">ace.ace</a></td><td align="right">189 </td></tr>
+<tr><td valign="top"><a href="7zip.7z"><img src="/server-templates/listing/icons/application-zip.png" alt="[   ]" width="24" height="24" /></a></td><td><a href="7zip.7z">7zip.7z</a></td><td align="right">111 </td></tr>
+</table>
+</div>
+</div>
+</div>
+<div class="clear-fix" style="clear: both; height: 1em;"></div>
+<div id="footer" style="clear: both;">
+    <div class="region region-footer">
+	 <ul class="menu"><li class="first last leaf"><a href="https://www.schokokeks.org/" title="">schokokeks.org Hosting</a></li>
+</ul>  </div>
+</div>
+</div>
+</body>
+</html>

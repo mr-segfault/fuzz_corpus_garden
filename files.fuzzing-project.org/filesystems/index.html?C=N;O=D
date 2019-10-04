@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+"http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de">
+	<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<title>Index of /filesystems/?C=N;O=D</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<link type="text/css" rel="stylesheet" media="all" href="/server-templates/css/schokokeks.css" />
+	</head>
+	<body>
+
+<div id="main">
+<form action="" method="get" style="float: right;">
+	<p>
+	<input type="text" name="P" value="*" />
+	<input type="submit" name="X" value="Filter!" />
+	</p>
+</form>
+<div id="content"> 
+<div class="node">
+<div class="content">
+<h3 style="margin-right: 200px;">Index of /filesystems/?C=N;O=D</h3>
+  <table>
+   <tr><th valign="top"><img src="/server-templates/listing/icons/blank.png" alt="[ICO]" width="24" height="24" /></th><th><a href="?C=N;O=A">Name</a></th><th><a href="?C=S;O=A">Size</a></th></tr>
+<tr><td valign="top"><a href="/"><img src="/server-templates/listing/icons/folder.png" alt="[PARENTDIR]" width="24" height="24" /></a></td><td><a href="/">Parent Directory</a></td><td align="right">  - </td></tr>
+<tr><td valign="top"><a href="udf.img"><img src="/server-templates/listing/icons/unknown.png" alt="[   ]" width="24" height="24" /></a></td><td><a href="udf.img">udf.img</a></td><td align="right">141K</td></tr>
+<tr><td valign="top"><a href="squashfs.img"><img src="/server-templates/listing/icons/unknown.png" alt="[   ]" width="24" height="24" /></a></td><td><a href="squashfs.img">squashfs.img</a></td><td align="right">4.0K</td></tr>
+<tr><td valign="top"><a href="ntfs.img"><img src="/server-templates/listing/icons/unknown.png" alt="[   ]" width="24" height="24" /></a></td><td><a href="ntfs.img">ntfs.img</a></td><td align="right">1.0M</td></tr>
+<tr><td valign="top"><a href="minix.img"><img src="/server-templates/listing/icons/unknown.png" alt="[   ]" width="24" height="24" /></a></td><td><a href="minix.img">minix.img</a></td><td align="right"> 10K</td></tr>
+<tr><td valign="top"><a href="luks2.img"><img src="/server-templates/listing/icons/unknown.png" alt="[   ]" width="24" height="24" /></a></td><td><a href="luks2.img">luks2.img</a></td><td align="right">4.0M</td></tr>
+<tr><td valign="top"><a href="luks1.img"><img src="/server-templates/listing/icons/unknown.png" alt="[   ]" width="24" height="24" /></a></td><td><a href="luks1.img">luks1.img</a></td><td align="right">1.0M</td></tr>
+<tr><td valign="top"><a href="hfsplus.img"><img src="/server-templates/listing/icons/unknown.png" alt="[   ]" width="24" height="24" /></a></td><td><a href="hfsplus.img">hfsplus.img</a></td><td align="right">512K</td></tr>
+<tr><td valign="top"><a href="hfs.dmg"><img src="/server-templates/listing/icons/unknown.png" alt="[   ]" width="24" height="24" /></a></td><td><a href="hfs.dmg">hfs.dmg</a></td><td align="right">800K</td></tr>
+<tr><td valign="top"><a href="fat32.img"><img src="/server-templates/listing/icons/unknown.png" alt="[   ]" width="24" height="24" /></a></td><td><a href="fat32.img">fat32.img</a></td><td align="right"> 64K</td></tr>
+<tr><td valign="top"><a href="fat16.img"><img src="/server-templates/listing/icons/unknown.png" alt="[   ]" width="24" height="24" /></a></td><td><a href="fat16.img">fat16.img</a></td><td align="right"> 34K</td></tr>
+<tr><td valign="top"><a href="fat12.img"><img src="/server-templates/listing/icons/unknown.png" alt="[   ]" width="24" height="24" /></a></td><td><a href="fat12.img">fat12.img</a></td><td align="right"> 34K</td></tr>
+<tr><td valign="top"><a href="ext2.img"><img src="/server-templates/listing/icons/unknown.png" alt="[   ]" width="24" height="24" /></a></td><td><a href="ext2.img">ext2.img</a></td><td align="right"> 64K</td></tr>
+<tr><td valign="top"><a href="exfat.img"><img src="/server-templates/listing/icons/unknown.png" alt="[   ]" width="24" height="24" /></a></td><td><a href="exfat.img">exfat.img</a></td><td align="right"> 84K</td></tr>
+<tr><td valign="top"><a href="cramfs.img"><img src="/server-templates/listing/icons/unknown.png" alt="[   ]" width="24" height="24" /></a></td><td><a href="cramfs.img">cramfs.img</a></td><td align="right">4.0K</td></tr>
+</table>
+</div>
+</div>
+</div>
+<div class="clear-fix" style="clear: both; height: 1em;"></div>
+<div id="footer" style="clear: both;">
+    <div class="region region-footer">
+	 <ul class="menu"><li class="first last leaf"><a href="https://www.schokokeks.org/" title="">schokokeks.org Hosting</a></li>
+</ul>  </div>
+</div>
+</div>
+</body>
+</html>

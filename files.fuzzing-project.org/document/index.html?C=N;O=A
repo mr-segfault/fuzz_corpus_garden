@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+"http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de">
+	<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<title>Index of /document/?C=N;O=A</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<link type="text/css" rel="stylesheet" media="all" href="/server-templates/css/schokokeks.css" />
+	</head>
+	<body>
+
+<div id="main">
+<form action="" method="get" style="float: right;">
+	<p>
+	<input type="text" name="P" value="*" />
+	<input type="submit" name="X" value="Filter!" />
+	</p>
+</form>
+<div id="content"> 
+<div class="node">
+<div class="content">
+<h3 style="margin-right: 200px;">Index of /document/?C=N;O=A</h3>
+  <table>
+   <tr><th valign="top"><img src="/server-templates/listing/icons/blank.png" alt="[ICO]" width="24" height="24" /></th><th><a href="?C=N;O=D">Name</a></th><th><a href="?C=S;O=A">Size</a></th></tr>
+<tr><td valign="top"><a href="/"><img src="/server-templates/listing/icons/folder.png" alt="[PARENTDIR]" width="24" height="24" /></a></td><td><a href="/">Parent Directory</a></td><td align="right">  - </td></tr>
+<tr><td valign="top"><a href="djvu.djvu"><img src="/server-templates/listing/icons/image.png" alt="[IMG]" width="24" height="24" /></a></td><td><a href="djvu.djvu">djvu.djvu</a></td><td align="right">883 </td></tr>
+<tr><td valign="top"><a href="dvi.dvi"><img src="/server-templates/listing/icons/application-x-dvi.png" alt="[   ]" width="24" height="24" /></a></td><td><a href="dvi.dvi">dvi.dvi</a></td><td align="right">216 </td></tr>
+<tr><td valign="top"><a href="epub.epub"><img src="/server-templates/listing/icons/unknown.png" alt="[   ]" width="24" height="24" /></a></td><td><a href="epub.epub">epub.epub</a></td><td align="right">4.6K</td></tr>
+<tr><td valign="top"><a href="htmlhelp.chm"><img src="/server-templates/listing/icons/unknown.png" alt="[   ]" width="24" height="24" /></a></td><td><a href="htmlhelp.chm">htmlhelp.chm</a></td><td align="right"> 10K</td></tr>
+<tr><td valign="top"><a href="latex.tex"><img src="/server-templates/listing/icons/application-x-tex.png" alt="[TXT]" width="24" height="24" /></a></td><td><a href="latex.tex">latex.tex</a></td><td align="right"> 80 </td></tr>
+<tr><td valign="top"><a href="pdf13.pdf"><img src="/server-templates/listing/icons/application-pdf.png" alt="[   ]" width="24" height="24" /></a></td><td><a href="pdf13.pdf">pdf13.pdf</a></td><td align="right">315 </td></tr>
+<tr><td valign="top"><a href="pdf15.pdf"><img src="/server-templates/listing/icons/application-pdf.png" alt="[   ]" width="24" height="24" /></a></td><td><a href="pdf15.pdf">pdf15.pdf</a></td><td align="right">3.0K</td></tr>
+<tr><td valign="top"><a href="postscript.png"><img src="/server-templates/listing/icons/image.png" alt="[IMG]" width="24" height="24" /></a></td><td><a href="postscript.png">postscript.png</a></td><td align="right"> 23K</td></tr>
+<tr><td valign="top"><a href="postscript.ps"><img src="/server-templates/listing/icons/application-postscript.png" alt="[   ]" width="24" height="24" /></a></td><td><a href="postscript.ps">postscript.ps</a></td><td align="right"> 23K</td></tr>
+</table>
+</div>
+</div>
+</div>
+<div class="clear-fix" style="clear: both; height: 1em;"></div>
+<div id="footer" style="clear: both;">
+    <div class="region region-footer">
+	 <ul class="menu"><li class="first last leaf"><a href="https://www.schokokeks.org/" title="">schokokeks.org Hosting</a></li>
+</ul>  </div>
+</div>
+</div>
+</body>
+</html>

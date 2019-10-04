@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+"http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de">
+	<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<title>Index of /misc/?C=N;O=A</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<link type="text/css" rel="stylesheet" media="all" href="/server-templates/css/schokokeks.css" />
+	</head>
+	<body>
+
+<div id="main">
+<form action="" method="get" style="float: right;">
+	<p>
+	<input type="text" name="P" value="*" />
+	<input type="submit" name="X" value="Filter!" />
+	</p>
+</form>
+<div id="content"> 
+<div class="node">
+<div class="content">
+<h3 style="margin-right: 200px;">Index of /misc/?C=N;O=A</h3>
+  <table>
+   <tr><th valign="top"><img src="/server-templates/listing/icons/blank.png" alt="[ICO]" width="24" height="24" /></th><th><a href="?C=N;O=D">Name</a></th><th><a href="?C=S;O=A">Size</a></th></tr>
+<tr><td valign="top"><a href="/"><img src="/server-templates/listing/icons/folder.png" alt="[PARENTDIR]" width="24" height="24" /></a></td><td><a href="/">Parent Directory</a></td><td align="right">  - </td></tr>
+<tr><td valign="top"><a href="acl.txt"><img src="/server-templates/listing/icons/text.png" alt="[TXT]" width="24" height="24" /></a></td><td><a href="acl.txt">acl.txt</a></td><td align="right">449 </td></tr>
+<tr><td valign="top"><a href="apache-htdigest"><img src="/server-templates/listing/icons/unknown.png" alt="[   ]" width="24" height="24" /></a></td><td><a href="apache-htdigest">apache-htdigest</a></td><td align="right"> 42 </td></tr>
+<tr><td valign="top"><a href="apache-htpasswd"><img src="/server-templates/listing/icons/unknown.png" alt="[   ]" width="24" height="24" /></a></td><td><a href="apache-htpasswd">apache-htpasswd</a></td><td align="right">171 </td></tr>
+<tr><td valign="top"><a href="attr.txt"><img src="/server-templates/listing/icons/text.png" alt="[TXT]" width="24" height="24" /></a></td><td><a href="attr.txt">attr.txt</a></td><td align="right"> 20 </td></tr>
+<tr><td valign="top"><a href="coredump-linux.tar.xz"><img src="/server-templates/listing/icons/application-x-gzip.png" alt="[   ]" width="24" height="24" /></a></td><td><a href="coredump-linux.tar.xz">coredump-linux.tar.xz</a></td><td align="right"> 13K</td></tr>
+<tr><td valign="top"><a href="desktop.ini"><img src="/server-templates/listing/icons/unknown.png" alt="[   ]" width="24" height="24" /></a></td><td><a href="desktop.ini">desktop.ini</a></td><td align="right">282 </td></tr>
+<tr><td valign="top"><a href="dsstore.tar.xz"><img src="/server-templates/listing/icons/application-x-gzip.png" alt="[   ]" width="24" height="24" /></a></td><td><a href="dsstore.tar.xz">dsstore.tar.xz</a></td><td align="right">544 </td></tr>
+<tr><td valign="top"><a href="gettext.mo"><img src="/server-templates/listing/icons/unknown.png" alt="[   ]" width="24" height="24" /></a></td><td><a href="gettext.mo">gettext.mo</a></td><td align="right"> 66 </td></tr>
+<tr><td valign="top"><a href="gettext.po"><img src="/server-templates/listing/icons/unknown.png" alt="[   ]" width="24" height="24" /></a></td><td><a href="gettext.po">gettext.po</a></td><td align="right"> 27 </td></tr>
+<tr><td valign="top"><a href="mtree.mtree"><img src="/server-templates/listing/icons/unknown.png" alt="[   ]" width="24" height="24" /></a></td><td><a href="mtree.mtree">mtree.mtree</a></td><td align="right">468 </td></tr>
+<tr><td valign="top"><a href="torrent.torrent"><img src="/server-templates/listing/icons/unknown.png" alt="[   ]" width="24" height="24" /></a></td><td><a href="torrent.torrent">torrent.torrent</a></td><td align="right">231 </td></tr>
+</table>
+</div>
+</div>
+</div>
+<div class="clear-fix" style="clear: both; height: 1em;"></div>
+<div id="footer" style="clear: both;">
+    <div class="region region-footer">
+	 <ul class="menu"><li class="first last leaf"><a href="https://www.schokokeks.org/" title="">schokokeks.org Hosting</a></li>
+</ul>  </div>
+</div>
+</div>
+</body>
+</html>

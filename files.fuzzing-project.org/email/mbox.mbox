@@ -1,0 +1,16 @@
+From MAILER-DAEMON Thu Feb 15 15:34:05 CET 2018
+From: Someone <someone@example.com>
+To: Else <else@example.com>
+Subject: Hello
+
+Hello,
+Bye.
+
+From MAILER-DAEMON Tue Feb 13 11:08:51 CET 2018
+From: Test <test@example.com>
+To: Tset <tset@example.com>
+Subject: Re: test
+
+Hi,
+>xyz
+yes.

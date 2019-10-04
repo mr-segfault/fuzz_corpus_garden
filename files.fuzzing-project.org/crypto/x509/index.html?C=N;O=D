@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+"http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de">
+	<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<title>Index of /crypto/x509/?C=N;O=D</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<link type="text/css" rel="stylesheet" media="all" href="/server-templates/css/schokokeks.css" />
+	</head>
+	<body>
+
+<div id="main">
+<form action="" method="get" style="float: right;">
+	<p>
+	<input type="text" name="P" value="*" />
+	<input type="submit" name="X" value="Filter!" />
+	</p>
+</form>
+<div id="content"> 
+<div class="node">
+<div class="content">
+<h3 style="margin-right: 200px;">Index of /crypto/x509/?C=N;O=D</h3>
+  <table>
+   <tr><th valign="top"><img src="/server-templates/listing/icons/blank.png" alt="[ICO]" width="24" height="24" /></th><th><a href="?C=N;O=A">Name</a></th><th><a href="?C=S;O=A">Size</a></th></tr>
+<tr><td valign="top"><a href="/crypto/"><img src="/server-templates/listing/icons/folder.png" alt="[PARENTDIR]" width="24" height="24" /></a></td><td><a href="/crypto/">Parent Directory</a></td><td align="right">  - </td></tr>
+<tr><td valign="top"><a href="spkac.cnf"><img src="/server-templates/listing/icons/unknown.png" alt="[   ]" width="24" height="24" /></a></td><td><a href="spkac.cnf">spkac.cnf</a></td><td align="right">783 </td></tr>
+<tr><td valign="top"><a href="rsa1024.csr"><img src="/server-templates/listing/icons/unknown.png" alt="[   ]" width="24" height="24" /></a></td><td><a href="rsa1024.csr">rsa1024.csr</a></td><td align="right">526 </td></tr>
+<tr><td valign="top"><a href="rsa512.key"><img src="/server-templates/listing/icons/unknown.png" alt="[   ]" width="24" height="24" /></a></td><td><a href="rsa512.key">rsa512.key</a></td><td align="right">522 </td></tr>
+<tr><td valign="top"><a href="rsa512.crt"><img src="/server-templates/listing/icons/application-certificate.png" alt="[   ]" width="24" height="24" /></a></td><td><a href="rsa512.crt">rsa512.crt</a></td><td align="right">538 </td></tr>
+<tr><td valign="top"><a href="pkcs12-cert.p12"><img src="/server-templates/listing/icons/unknown.png" alt="[   ]" width="24" height="24" /></a></td><td><a href="pkcs12-cert.p12">pkcs12-cert.p12</a></td><td align="right">2.3K</td></tr>
+<tr><td valign="top"><a href="ocsp-response.der"><img src="/server-templates/listing/icons/unknown.png" alt="[   ]" width="24" height="24" /></a></td><td><a href="ocsp-response.der">ocsp-response.der</a></td><td align="right">1.4K</td></tr>
+<tr><td valign="top"><a href="ocsp-request.der"><img src="/server-templates/listing/icons/unknown.png" alt="[   ]" width="24" height="24" /></a></td><td><a href="ocsp-request.der">ocsp-request.der</a></td><td align="right">113 </td></tr>
+<tr><td valign="top"><a href="ecdsa-key.key"><img src="/server-templates/listing/icons/unknown.png" alt="[   ]" width="24" height="24" /></a></td><td><a href="ecdsa-key.key">ecdsa-key.key</a></td><td align="right">221 </td></tr>
+<tr><td valign="top"><a href="ecdsa-cert.crt"><img src="/server-templates/listing/icons/application-certificate.png" alt="[   ]" width="24" height="24" /></a></td><td><a href="ecdsa-cert.crt">ecdsa-cert.crt</a></td><td align="right">432 </td></tr>
+<tr><td valign="top"><a href="dsa512.key"><img src="/server-templates/listing/icons/unknown.png" alt="[   ]" width="24" height="24" /></a></td><td><a href="dsa512.key">dsa512.key</a></td><td align="right">331 </td></tr>
+<tr><td valign="top"><a href="dsa512.crt"><img src="/server-templates/listing/icons/application-certificate.png" alt="[   ]" width="24" height="24" /></a></td><td><a href="dsa512.crt">dsa512.crt</a></td><td align="right">717 </td></tr>
+<tr><td valign="top"><a href="certificate-revocation-list-empty.crl"><img src="/server-templates/listing/icons/unknown.png" alt="[   ]" width="24" height="24" /></a></td><td><a href="certificate-revocation-list-empty.crl">certificate-revocation-list-empty.crl</a></td><td align="right">369 </td></tr>
+</table>
+</div>
+</div>
+</div>
+<div class="clear-fix" style="clear: both; height: 1em;"></div>
+<div id="footer" style="clear: both;">
+    <div class="region region-footer">
+	 <ul class="menu"><li class="first last leaf"><a href="https://www.schokokeks.org/" title="">schokokeks.org Hosting</a></li>
+</ul>  </div>
+</div>
+</div>
+</body>
+</html>

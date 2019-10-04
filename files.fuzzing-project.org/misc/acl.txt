@@ -1,0 +1,37 @@
+# file: .
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+
+# file: y
+# owner: root
+# group: root
+user::rwx
+group::r-x
+other::r-x
+default:user::rwx
+default:group::r-x
+default:group:users:rw-
+default:mask::rwx
+default:other::r-x
+
+# file: y/a
+# owner: gast
+# group: root
+user::rw-
+group::r-x	#effective:r--
+group:users:rw-
+mask::rw-
+other::r--
+
+# file: x
+# owner: root
+# group: root
+user::rw-
+user:gast:r-x
+group::r--
+mask::r-x
+other::r--
+
